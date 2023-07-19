@@ -6,4 +6,5 @@ The code in these files is from the "Quantitative Social Science: An Introductio
 It provides explinations of the statistical underworkings happening behind the code and why it is needed to conduct them.
 
 **Casual Effects**: Includes descriptions of the basic ideas of RCTs and Oberservational Data in addition to the basic idea of DiD designs 
+
 **Intro to R**: Includes basic code including if and else statements and for loops to provide a foundation for understand R. 
