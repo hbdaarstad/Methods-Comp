@@ -251,7 +251,7 @@ for (i in 1:nrow(pres08)) {
 
 ![](Spatial-Data_files/figure-markdown_github/unnamed-chunk-11-4.png)
 
-### Walmart Exampl
+### Walmart Example
 
 Examine the expansion of Walmart using a data set that contains spatial
 and temporal information about Walmart openings from the first opening,
