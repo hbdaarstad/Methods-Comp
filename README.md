@@ -8,3 +8,5 @@ It provides explinations of the statistical underworkings happening behind the c
 **Casual Effects**: Includes descriptions of the basic ideas of RCTs and Oberservational Data in addition to the basic idea of DiD designs 
 
 **Intro to R**: Includes basic code including if and else statements and for loops to provide a foundation for understand R. 
+
+**Spatial Data**: Includes discussion of the basics of spatial data and how to use maps() to visualize certain aspects of data, it also includes information about colors in R.
